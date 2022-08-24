@@ -53,5 +53,6 @@ h1, h2, h3 {
     font-family: var(--featured-font-family);
     font-size: 3rem;
     color: var(--primary-color);
-    
+    text-transform: uppercase;
+    margin: 40px;
 }
